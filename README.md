@@ -1,7 +1,5 @@
 # Ybi-DS-1MTH-Internship-Project-Anand-Yadav
 
-# Ybi-Data-Science-Internship-Anand-Yadav
-
 Following steps are generally followed in A MAchine Learning model building:-
 
 Title of Project<br>
